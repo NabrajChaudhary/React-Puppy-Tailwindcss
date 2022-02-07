@@ -1,0 +1,12 @@
+
+.counter-bg{
+    background: linear-gradient(rgba(252, 195, 2,0.8),rgba(252, 195, 2,0.8)),url(../Images/counterBackground.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center,center;
+    height: auto;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
